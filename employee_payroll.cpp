@@ -1,3 +1,6 @@
+// Employee Payroll System
+// Author: Mary Arrington
+// Description: Calculates payroll for multiple employees using hours worked and pay rate.
 #include <iostream>
 using namespace std;
 
